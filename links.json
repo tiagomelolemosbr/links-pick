@@ -9,6 +9,15 @@
   "links": [
     {
       "ativo": true,
+      "destaque": false,
+      "selo": "",
+      "emoji": "📷",
+      "titulo": "Pedir orçamento",
+      "descricao": "Ensaios e casamentos, direto no WhatsApp",
+      "url": "https://wa.me/5541974033005?text=Oi%20Felipe!%20Quero%20pedir%20um%20or%C3%A7amento."
+    },
+    {
+      "ativo": true,
       "destaque": true,
       "selo": "30% off",
       "emoji": "🎞️",
@@ -24,15 +33,6 @@
       "titulo": "Presets",
       "descricao": "As cores das minhas fotos no seu Lightroom",
       "url": "https://presets.felipepick.com/?utm_source=instagram&utm_medium=bio&utm_campaign=funil-presets&utm_content=link-bio"
-    },
-    {
-      "ativo": true,
-      "destaque": false,
-      "selo": "",
-      "emoji": "📷",
-      "titulo": "Pedir orçamento",
-      "descricao": "Ensaios e casamentos, direto no WhatsApp",
-      "url": "https://wa.me/5541974033005?text=Oi%20Felipe!%20Quero%20pedir%20um%20or%C3%A7amento."
     }
   ]
 }
