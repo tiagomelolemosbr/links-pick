@@ -28,6 +28,15 @@
     {
       "ativo": true,
       "destaque": false,
+      "selo": "novo",
+      "emoji": "🎬",
+      "titulo": "Edição de Cinema no Lightroom",
+      "descricao": "Como eu edito as minhas fotos, do arquivo cru à cena",
+      "url": "https://ws.felipepick.com/edicao/?utm_source=instagram&utm_medium=bio&utm_campaign=curso-edicao&utm_content=link-bio"
+    },
+    {
+      "ativo": true,
+      "destaque": false,
       "selo": "",
       "emoji": "📸",
       "titulo": "Presets",
